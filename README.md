@@ -1,4 +1,6 @@
-# CS:GO Config
-Moja konfiguracja do gry CS:GO.
+Sefinek CS:GO Config
+--------------------
 
-PS: Nie jestem twórcą configu — zmodyfikowałem go jedynie.
+My configuration for the game Counter-Strike: Global Offensive.
+
+I am not the creator. The original version has only been modified by me.
